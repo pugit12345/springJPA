@@ -40,7 +40,7 @@ public class SpringJpaApplication {
 		System.out.println(vp.testVar);
 
 
-		Lazy l = context.getBean(Lazy.class, "PKU");
+		Lazy l = context.getBean(Lazy.class, "Prakash");
 
 	}
 
